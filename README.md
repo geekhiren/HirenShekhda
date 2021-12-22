@@ -3,4 +3,4 @@
 
 Visit to [https://geekhiren.com/](https://geekhiren.com/)
 
-![img](assets/img/HomePage.png)
+![img](assets/img/ahero-bg.png)
