@@ -3,5 +3,5 @@
 
 Visit to [https://geekhiren.com/](https://geekhiren.com/)
 
-![img](assets/img/ahero-bg.png)
+![img](assets/img/hero-bg.png)
 
